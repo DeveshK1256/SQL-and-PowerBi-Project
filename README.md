@@ -44,6 +44,20 @@ It covers the complete process of **data collection, storage, querying, analysis
 - ✅ Major projects: comprehensive analysis dashboards.  
 
 ---
+## 📸 Project Screenshots  
+
+### 🔹 SQL Project – Table Schema  
+<img width="1003" height="500" alt="image" src="https://github.com/user-attachments/assets/3694b235-f2ff-41c3-b800-7ad15205c81c" />
+ 
+
+### 🔹 Power BI Mini Project Dashboard  
+<img width="930" height="529" alt="image" src="https://github.com/user-attachments/assets/23443617-0a77-4974-9600-60d40ea57faf" />
+  
+
+### 🔹 Power BI Major Project Dashboard  
+<img width="940" height="535" alt="image" src="https://github.com/user-attachments/assets/436c1b8a-228a-47ef-a115-33eaeddbdc36" />
+
+---
 
 ## 📂 Repository Structure  
 📁 SQL Project
