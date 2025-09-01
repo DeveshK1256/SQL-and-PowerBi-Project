@@ -46,8 +46,8 @@ It covers the complete process of **data collection, storage, querying, analysis
 ---
 
 ## 📂 Repository Structure  
-📁 SQL-Projects
-┗ 📄 google_form_to_sql.sql
+📁 SQL-Project
+┗ 📄 form_responses.sql
 📁 PowerBI-Projects
 ┣ 📄 mini_project.pbix
 ┗ 📄 major_project.pbix
