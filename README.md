@@ -1,4 +1,4 @@
-# SureTrust_G18SQL & Power BI Projects
+# SureTrust_G18_SQL & Power BI Projects
 ## 📊 SQL & Power BI Projects  
 
 ## 🚀 Project Overview  
