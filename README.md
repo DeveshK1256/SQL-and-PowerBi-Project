@@ -1,4 +1,5 @@
-# 📊 SQL & Power BI Projects  
+# SureTrust_G18SQL & Power BI Projects
+## 📊 SQL & Power BI Projects  
 
 ## 🚀 Project Overview  
 This repository showcases my work in **SQL** and **Power BI**, demonstrating end-to-end data analytics capabilities.  
